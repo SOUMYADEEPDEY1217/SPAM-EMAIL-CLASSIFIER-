@@ -13,13 +13,12 @@ Model training using Naive Bayes
 
 Performance evaluation with accuracy score
 
+## Requirements
+- Python 3.x
+- scikit-learn
+- pandas
 
-🧪 Run Instructions
+## How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the model: `python spam_classifier.py`
 
-pip install -r requirements.txt
-python spam_classifier.py
-
-
----
-
-✅ Simple and beginner-friendly project for learning NLP and classification.
